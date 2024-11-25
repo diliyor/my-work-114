@@ -1,0 +1,5 @@
+h1 {border-top: 5px dotted;
+border-left: 5px groove;
+border-right: 5px dashed;
+border-bottom: 5px double;
+border-color: green;}
